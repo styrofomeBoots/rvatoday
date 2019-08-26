@@ -8,3 +8,10 @@ Interactive Map that Shows city events for the current day.
 ### back-end
 * Flask
 * Beautiful Soup
+
+
+
+## To-Do:
+* get mapbox API token
+* find event websites to scrape
+* display map proprtionately
