@@ -1,5 +1,5 @@
 # rvatoday
-Interactive Map that Shows city events for the current day.
+Eventually this will be an interactive map to show day of events in and around Richmond.  Currently using it as a way to show my favorite spots around Richmond to get used to the Leaflet API.
 
 ### front-end
 * Leaflet JS
